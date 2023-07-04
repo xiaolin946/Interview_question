@@ -1,0 +1,27 @@
+{
+  "name": "test_interview",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.1.0",
+    "element-plus": "^2.3.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-style-aliases": "^1.1.11",
+    "vue": "^3.2.47",
+    "vue-router": "^4.2.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "element-theme-chalk": "^2.15.13",
+    "vite": "^4.3.9"
+  }
+}
